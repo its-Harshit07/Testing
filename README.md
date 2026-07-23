@@ -1,4 +1,4 @@
 # Testing
 Just a trial....
- added bugs
+added bugs
 fixed theme
